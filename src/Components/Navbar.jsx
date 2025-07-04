@@ -18,7 +18,7 @@ const Navbar = () => {
         <span className="font-Poppins font-semibold text-[24px]">3legant.</span>
       </div>
 
-      {/* Desktop Menu */}
+      {/* Desktop Menu */}  
       <div className="hidden md:flex">
         <ul className="flex gap-[2.5rem] items-center">
           {navData.map((item) => {
